@@ -22,5 +22,5 @@ What are the steps required to install your project? Provide a step-by-step desc
 - [W3schools](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 
-## Tests
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+## Screenshot
+![code-refractor-screenshot](https://user-images.githubusercontent.com/87950670/133709782-d92c2d64-b5ff-48e3-b63c-9c1e23cef2ab.png)
